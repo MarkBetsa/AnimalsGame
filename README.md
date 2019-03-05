@@ -1,0 +1,3 @@
+# AnimalsGame
+
+![Design](demo.gif)
